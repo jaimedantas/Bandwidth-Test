@@ -9,6 +9,7 @@ This is a complete software for testing the bandwidth with tests of TCP, UDP and
 * Test TCP
 * Test Ping
 * Reports
+* Multithreading
 
 At the end of each test, the user can generate a full report containing all data as well as several graphs of the test. 
 
